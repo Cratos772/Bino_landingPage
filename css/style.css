@@ -112,7 +112,7 @@ p {
             transform: translate(-50%, -50%) rotate(0deg); } }
 
 .section-top {
-  background: url(../../img/section-top-bg.jpg) no-repeat top center;
+  background: url(../img/section-top-bg.jpg) no-repeat top center;
   background-size: cover;
   position: relative;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 90%, 0 80%);
