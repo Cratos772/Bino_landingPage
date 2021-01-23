@@ -564,7 +564,7 @@ p {
     right: 0;
     width: 46%;
     height: 100%;
-    background: url(../../img/services-bg.jpg) top right no-repeat;
+    background: url(../img/services-bg.jpg) top right no-repeat;
     background-size: cover; }
   .services__block {
     width: 54%;
@@ -1002,7 +1002,7 @@ p {
 .counts {
   position: relative;
   padding: 120px 0 110px;
-  background: url(../../img/counts-bg.jpg) center no-repeat;
+  background: url(../img/counts-bg.jpg) center no-repeat;
   background-size: cover; }
   .counts::before {
     content: "";
@@ -1283,7 +1283,7 @@ p {
 .team {
   margin-top: 140px;
   padding: 140px 0 470px;
-  background: url(../../img/team-line.png) center bottom no-repeat, url(../../img/team-bg.jpg) center no-repeat;
+  background: url(../img/team-line.png) center bottom no-repeat, url(../img/team-bg.jpg) center no-repeat;
   -webkit-box-sizing: cover;
           box-sizing: cover; }
   .team__wrap {
@@ -1446,7 +1446,7 @@ p {
 /*======================================================== Media queryes ========================================================*/
 @media (max-width: 1200px) {
   .team {
-    background: url(../../img/team-bg.jpg) center no-repeat;
+    background: url(../img/team-bg.jpg) center no-repeat;
     background-size: cover;
     padding: 140px 0; }
     .team__elements {
@@ -1690,25 +1690,25 @@ p {
   .blog__img_1 {
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
-    background: url(../../img/blog.jpg) center no-repeat;
+    background: url(../img/blog.jpg) center no-repeat;
     -webkit-box-sizing: cover;
             box-sizing: cover; }
   .blog__img_2 {
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
-    background: url(../../img/blog2.jpg) center no-repeat;
+    background: url(../img/blog2.jpg) center no-repeat;
     -webkit-box-sizing: cover;
             box-sizing: cover; }
   .blog__img_3 {
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
-    background: url(../../img/blog3.jpg) center no-repeat;
+    background: url(../img/blog3.jpg) center no-repeat;
     -webkit-box-sizing: cover;
             box-sizing: cover; }
   .blog__img_4 {
     -ms-flex-preferred-size: 50%;
         flex-basis: 50%;
-    background: url(../../img/blog4.jpg) center no-repeat;
+    background: url(../img/blog4.jpg) center no-repeat;
     -webkit-box-sizing: cover;
             box-sizing: cover; }
   .blog__info {
@@ -1999,7 +1999,7 @@ p {
 .promo {
   position: relative;
   padding: 140px 0;
-  background: url("../../img/free-bg.jpg") center no-repeat;
+  background: url("../img/free-bg.jpg") center no-repeat;
   background-size: cover;
   text-align: center;
   color: #fff; }
